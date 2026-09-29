@@ -1,0 +1,12 @@
+# build outputs
+smooth
+sieve
+sieve2
+sieve3
+sieve4
+sieve5
+*.o
+
+# profiler reports
+*.ncu-rep
+*.nsys-rep
