@@ -1,5 +1,7 @@
 # RSA Factoring Lab
 
+![CUDA](https://img.shields.io/badge/CUDA-13.3-76B900?logo=nvidia&logoColor=white) ![C++](https://img.shields.io/badge/C++-OpenMP-00599C?logo=cplusplus&logoColor=white)
+
 A lab for learning how RSA numbers get factored. I ran CADO-NFS, the tool used for the factoring records, on a home PC, then wrote a GPU sieve from scratch and tuned it with a profiler. I read about RSA-260 being factored and wanted to see how far a home PC could get.
 
 **Hardware:** Intel i5-12600K · NVIDIA RTX 3060 Ti (8 GB, sm_86) · Windows + WSL2 Ubuntu · CUDA 13.3
