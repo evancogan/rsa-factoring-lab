@@ -86,6 +86,6 @@ git clone --depth 1 https://gitlab.inria.fr/cado-nfs/cado-nfs.git && cd cado-nfs
 - [CADO-NFS](https://gitlab.inria.fr/cado-nfs/cado-nfs)
 - [Profiling CUDA programs on WSL 2, Peter Chng](https://peterchng.com/blog/2024/03/02/profiling-cuda-programs-on-wsl-2/)
 
-## AI attribution
+## How it was built
 
-Claude (Anthropic) wrote most of the code in this project under my direction.
+I built this with Claude as a pair programmer. I ran the CADO-NFS and GPU experiments on my own hardware, read the profiler output to decide what to change next, wrote parts of the code, and reviewed the rest.
