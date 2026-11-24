@@ -88,4 +88,4 @@ git clone --depth 1 https://gitlab.inria.fr/cado-nfs/cado-nfs.git && cd cado-nfs
 
 ## AI attribution
 
-Claude (Anthropic) helped write the code in this project, working under my direction.
+Claude (Anthropic) wrote most of the code in this project under my direction.
