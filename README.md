@@ -85,3 +85,7 @@ git clone --depth 1 https://gitlab.inria.fr/cado-nfs/cado-nfs.git && cd cado-nfs
 - [RSA numbers, Wikipedia](https://en.wikipedia.org/wiki/RSA_numbers)
 - [CADO-NFS](https://gitlab.inria.fr/cado-nfs/cado-nfs)
 - [Profiling CUDA programs on WSL 2, Peter Chng](https://peterchng.com/blog/2024/03/02/profiling-cuda-programs-on-wsl-2/)
+
+## AI attribution
+
+Claude (Anthropic) helped write the code in this project, working under my direction.
